@@ -1,0 +1,8 @@
+socket
+colorama
+argparse
+threading
+Thread
+Lock
+queue
+Queue
